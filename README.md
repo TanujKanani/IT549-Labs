@@ -1,2 +1,3 @@
-# IT549-Lab-1
-Deep Learning Lab 1
+Name :- Tanuj Kanani
+Course :- IT549
+ID :- 202301474
